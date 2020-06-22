@@ -12,3 +12,5 @@ dependency-reduced-pom.xml
 rebel.xml
 log.txt
 *faces-config.xml.jsfdia
+.idea/
+*.iml
